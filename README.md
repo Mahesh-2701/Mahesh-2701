@@ -5,9 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080B18,30:312E81,65:6D28D9,100:06B6D4&text=MAHESH&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20AI%20ENGINEERING&descSize=17&descAlignY=59&animation=fadeIn" alt="Mahesh animated gradient banner"/>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B18,30:312E81,65:6D28D9,100:06B6D4&text=MAHESH&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20AI%20ENGINEERING&descSize=17&descAlignY=59&animation=twinkling" alt="Mahesh animated gradient banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=750&height=55&lines=Building+modern+web+applications+%F0%9F%9A%80;Engineering+AI-powered+experiences+%F0%9F%A4%96;React+%7C+Next.js+%7C+NestJS+%7C+TypeScript;LLMs+%7C+RAG+%7C+Agentic+AI;Turning+ideas+into+useful+software+%E2%9A%A1" alt="Animated developer introduction"/>
 
@@ -22,6 +20,9 @@
 <a href="mailto:maheshmdu27@gmail.com">
 <img src="https://img.shields.io/badge/Email-Let's%20Connect-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<a href="https://mahesh-portfolio-snowy-zeta.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 <br/><br/>
 
@@ -31,11 +32,13 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6D28D9,100:06B6D4&height=2" width="100%" alt=""/>
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=520&height=45&lines=01+%2F%2F+WHO+AM+I%3F" alt="01 Who am I?"/>
+</h2>
 
 <div align="center">
-
-## `01` &nbsp; WHO AM I?
 
 **Full Stack Developer · AI Engineering · Product Development**
 
@@ -81,11 +84,13 @@ const mahesh = {
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6D28D9,100:06B6D4&height=2" width="100%" alt=""/>
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=520&height=45&lines=02+%2F%2F+TECH+ARSENAL" alt="02 Tech Arsenal"/>
+</h2>
 
 <div align="center">
-
-## `02` &nbsp; TECH ARSENAL
 
 *Technologies I work with and explore*
 
@@ -144,11 +149,13 @@ const mahesh = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6D28D9,100:06B6D4&height=2" width="100%" alt=""/>
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=560&height=45&lines=03+%2F%2F+SELECTED+PROJECTS" alt="03 Selected Projects"/>
+</h2>
 
 <div align="center">
-
-## `03` &nbsp; SELECTED PROJECTS
 
 *Building products, integrating systems, solving problems.*
 
@@ -171,9 +178,12 @@ Contributing to contextual AI workflows that help users reflect on workplace sit
 
 **Stack**
 
-`Next.js` `TypeScript` `Supabase` `Edge Functions`
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Edge%20Functions-1F2937?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Edge Functions"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://vizuna.com/">
 <img src="https://img.shields.io/badge/EXPLORE%20VIZUNA-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Vizuna"/>
@@ -195,9 +205,11 @@ A streaming-focused project involving backend functionality, video metadata, mul
 
 **Stack**
 
-`NestJS` `PostgreSQL` `Mobile Frontend`
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Mobile%20Frontend-334155?style=flat-square" alt="Mobile Frontend"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.916studio.in/">
 <img src="https://img.shields.io/badge/PROJECT%20LINK-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Thirai Flix project link"/>
@@ -221,7 +233,13 @@ A personal project combining location-aware food discovery, budget-based recomme
 
 **Stack**
 
-`React` `Node.js` `MongoDB` `WebSockets` `RAG`
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+<img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG"/>
+
+<br/><br/>
 
 <a href="https://github.com/Mahesh-2701?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/>
@@ -231,11 +249,13 @@ A personal project combining location-aware food discovery, budget-based recomme
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6D28D9,100:06B6D4&height=2" width="100%" alt=""/>
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=560&height=45&lines=04+%2F%2F+GITHUB+DASHBOARD" alt="04 GitHub Dashboard"/>
+</h2>
 
 <div align="center">
-
-## `04` &nbsp; GITHUB DASHBOARD
 
 *My coding activity and public repository insights*
 
@@ -258,13 +278,24 @@ A personal project combining location-aware food discovery, budget-based recomme
 
 </div>
 
----
+### ◈ Contribution Snake
 
+<!-- Needs the snake.yml workflow in .github/workflows/ to generate the "output" branch -->
 <div align="center">
 
-## `05` &nbsp; WHAT I'M EXPLORING
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahesh-2701/Mahesh-2701/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahesh-2701/Mahesh-2701/output/github-snake.svg"/>
+  <img width="100%" alt="Animated snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Mahesh-2701/Mahesh-2701/output/github-snake-dark.svg"/>
+</picture>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6D28D9,100:06B6D4&height=2" width="100%" alt=""/>
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=560&height=45&lines=05+%2F%2F+WHAT+I'M+EXPLORING" alt="05 What I'm exploring"/>
+</h2>
 
 <table>
 <tr>
@@ -313,11 +344,13 @@ A personal project combining location-aware food discovery, budget-based recomme
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6D28D9,100:06B6D4&height=2" width="100%" alt=""/>
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=520&height=45&lines=06+%2F%2F+LET'S+CONNECT" alt="06 Let's connect"/>
+</h2>
 
 <div align="center">
-
-## `06` &nbsp; LET'S CONNECT
 
 **Have an interesting project, technical idea, or opportunity?**
 
@@ -343,7 +376,7 @@ A personal project combining location-aware food discovery, budget-based recomme
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,50:4F46E5,100:0D1117" alt="Gradient footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,50:4F46E5,100:0D1117&animation=twinkling" alt="Gradient footer"/>
 
 </div>
 
