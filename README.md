@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:maheshmdu27@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Connect-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Let%27s%20Connect-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://mahesh-portfolio-snowy-zeta.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -33,8 +33,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mahesh-2701&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
-&nbsp;
 <img src="https://img.shields.io/github/followers/Mahesh-2701?style=flat-square&color=0891B2&label=FOLLOWERS&logo=github" alt="GitHub followers"/>
 
 </div>
@@ -295,17 +293,6 @@ A personal project combining location-aware food discovery, budget-based recomme
 
 </div>
 
-### ◈ Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-2701&bg_color=FFFFFF&color=6D28D9&line=0891B2&point=0F172A&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-2701&bg_color=0D1117&color=C4B5FD&line=22D3EE&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
-</picture>
-
-</div>
-
 ### ◈ Contribution Snake
 
 <!-- Needs the snake.yml workflow in .github/workflows/ to generate the "output" branch -->
@@ -322,7 +309,7 @@ A personal project combining location-aware food discovery, budget-based recomme
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=560&height=45&lines=05+%2F%2F+WHAT+I'M+EXPLORING" alt="05 What I'm exploring"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=560&height=45&lines=05+%2F%2F+WHAT+I%27M+EXPLORING" alt="05 What I'm exploring"/>
 </h2>
 
 <table>
@@ -375,7 +362,7 @@ A personal project combining location-aware food discovery, budget-based recomme
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=520&height=45&lines=06+%2F%2F+LET'S+CONNECT" alt="06 Let's connect"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=520&height=45&lines=06+%2F%2F+LET%27S+CONNECT" alt="06 Let's connect"/>
 </h2>
 
 <div align="center">
