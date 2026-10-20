@@ -1,11 +1,18 @@
 <!-- =====================================================
      MAHESH | ANIMATED GITHUB PROFILE
      Repository: Mahesh-2701
+
+     Custom animated assets live in /assets and are built
+     by scripts/generate_assets.py (see that file for options).
 ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B18,30:312E81,65:6D28D9,100:06B6D4&text=MAHESH&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20AI%20ENGINEERING&descSize=17&descAlignY=59&animation=twinkling" alt="Mahesh animated gradient banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B18,30:312E81,65:6D28D9,100:06B6D4&text=MAHESH&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20AI%20ENGINEERING&descSize=17&descAlignY=59&animation=twinkling" alt="Mahesh animated gradient banner"/>
+
+<img src="assets/avatar.svg" width="150" alt="Mahesh profile avatar with an animated gradient ring"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=750&height=55&lines=Building+modern+web+applications+%F0%9F%9A%80;Engineering+AI-powered+experiences+%F0%9F%A4%96;React+%7C+Next.js+%7C+NestJS+%7C+TypeScript;LLMs+%7C+RAG+%7C+Agentic+AI;Turning+ideas+into+useful+software+%E2%9A%A1" alt="Animated developer introduction"/>
 
@@ -32,7 +39,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6D28D9,100:06B6D4&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=520&height=45&lines=01+%2F%2F+WHO+AM+I%3F" alt="01 Who am I?"/>
@@ -84,7 +91,7 @@ const mahesh = {
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6D28D9,100:06B6D4&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=520&height=45&lines=02+%2F%2F+TECH+ARSENAL" alt="02 Tech Arsenal"/>
@@ -93,6 +100,8 @@ const mahesh = {
 <div align="center">
 
 *Technologies I work with and explore*
+
+<img src="assets/tech-marquee.svg" width="100%" alt="Scrolling ticker of technologies: TypeScript, JavaScript, Python, Java, React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, Redis, Supabase, AWS, Docker, LLMs, RAG and more"/>
 
 </div>
 
@@ -149,7 +158,7 @@ const mahesh = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6D28D9,100:06B6D4&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=560&height=45&lines=03+%2F%2F+SELECTED+PROJECTS" alt="03 Selected Projects"/>
@@ -164,6 +173,8 @@ const mahesh = {
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<img src="assets/project-vizuna.svg" width="100%" alt="Vizuna project thumbnail"/>
 
 <h3>✦ Vizuna</h3>
 
@@ -192,6 +203,8 @@ Contributing to contextual AI workflows that help users reflect on workplace sit
 </td>
 <td width="50%" valign="top">
 
+<img src="assets/project-thirai.svg" width="100%" alt="Thirai Flix project thumbnail"/>
+
 <h3>✦ Thirai Flix</h3>
 
 **Multilingual OTT Platform**
@@ -219,6 +232,8 @@ A streaming-focused project involving backend functionality, video metadata, mul
 </tr>
 <tr>
 <td colspan="2" valign="top">
+
+<img src="assets/project-food.svg" width="100%" alt="AI-powered food discovery and ordering project thumbnail"/>
 
 <h3>✦ AI-Powered Food Discovery & Ordering</h3>
 
@@ -249,7 +264,7 @@ A personal project combining location-aware food discovery, budget-based recomme
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6D28D9,100:06B6D4&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=560&height=45&lines=04+%2F%2F+GITHUB+DASHBOARD" alt="04 GitHub Dashboard"/>
@@ -261,12 +276,22 @@ A personal project combining location-aware food discovery, budget-based recomme
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mahesh-2701&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-2701&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=8" alt="Most used languages"/>
+<!-- Each card has a dark and a light variant so it matches the viewer's GitHub theme -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mahesh-2701&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&icon_color=0891B2&text_color=334155&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mahesh-2701&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-2701&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=334155&langs_count=8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-2701&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=8" alt="Most used languages"/>
+</picture>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Mahesh-2701&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Mahesh-2701&hide_border=true&background=FFFFFF&ring=6D28D9&fire=0891B2&currStreakLabel=0891B2&sideLabels=334155&dates=64748B&currStreakNum=0F172A&sideNums=0F172A"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Mahesh-2701&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+</picture>
 
 </div>
 
@@ -274,7 +299,10 @@ A personal project combining location-aware food discovery, budget-based recomme
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-2701&bg_color=0D1117&color=C4B5FD&line=22D3EE&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-2701&bg_color=FFFFFF&color=6D28D9&line=0891B2&point=0F172A&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-2701&bg_color=0D1117&color=C4B5FD&line=22D3EE&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+</picture>
 
 </div>
 
@@ -291,7 +319,7 @@ A personal project combining location-aware food discovery, budget-based recomme
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6D28D9,100:06B6D4&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=560&height=45&lines=05+%2F%2F+WHAT+I'M+EXPLORING" alt="05 What I'm exploring"/>
@@ -344,7 +372,7 @@ A personal project combining location-aware food discovery, budget-based recomme
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:6D28D9,100:06B6D4&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=520&height=45&lines=06+%2F%2F+LET'S+CONNECT" alt="06 Let's connect"/>
